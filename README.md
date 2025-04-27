@@ -17,6 +17,7 @@ I’m a Security Engineer with a strong focus on **DevOps, Infrastructure as Cod
 -  Endpoint & Network Security → Sysmon, Zeek, Snort, CrowdStrike Falcon
 
 🔭 **Current Projects:** 
+
 https://github.com/Joe-kag/How-to-Install-and-Configure-Elasticsearch-Kibana-Logstash-8.17-on-Kali-Linux.
 
 https://github.com/Joe-kag/Terraform-AWS-EC2-Automation-Project
