@@ -40,8 +40,6 @@ https://github.com/Joe-kag/Attacking-and-Defending-AWS
 
 https://github.com/Joe-kag/Nessus-for-Vulnerability-scanning
 
-https://shorturl.at/XNpXZ
-
 https://github.com/Joe-kag/SOC-L1-Analyst-Project
 
 https://github.com/Joe-kag/AWS-Free-Tier-Account-Setup
