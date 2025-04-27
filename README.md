@@ -18,17 +18,29 @@ I’m a Security Engineer with a strong focus on **DevOps, Infrastructure as Cod
 
 🔭 **Current Projects:** 
 https://github.com/Joe-kag/How-to-Install-and-Configure-Elasticsearch-Kibana-Logstash-8.17-on-Kali-Linux.
+
 https://github.com/Joe-kag/Terraform-AWS-EC2-Automation-Project
+
 https://github.com/Joe-kag/Mastering-AWS-SteSetting-Up-VPC-Public-Private-Subnets-NAT-Internet-Gateway-and-Route-Tables
+
 https://github.com/Joe-kag/Essential-Linux-Commands-for-Beginners-in-Tech
+
 https://github.com/Joe-kag/AWS-How-to-Launch-an-EC2-instance-connect-and-terminate-it
+
 https://github.com/Joe-kag/-AZN-Cybersecurity-Internship---Job-Simulation-Project
+
 https://github.com/Joe-kag/Mastering-AWS-IAM-The-Ultimate-Guide-to-Role-Assumption
+
 https://github.com/Joe-kag/AWS-Organization-for-Account-Multiple-Account-setup
+
 https://github.com/Joe-kag/Creating-IAM-Users-Groups-and-Policies-in-AWS
+
 https://github.com/Joe-kag/Attacking-and-Defending-AWS
+
 https://github.com/Joe-kag/Nessus-for-Vulnerability-scanning
+
 https://github.com/Joe-kag/SOC-L1-Analyst-Project
+
 https://github.com/Joe-kag/AWS-Free-Tier-Account-Setup
 
 - 🚧 **SOC L1 Project**
