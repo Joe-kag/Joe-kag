@@ -18,6 +18,8 @@ I’m a Security Engineer with a strong focus on **DevOps, Infrastructure as Cod
 
 🔭 **Current Projects:** 
 
+https://github.com/Joe-kag/Wazuh-XDR
+
 https://github.com/Joe-kag/Microsoft-AZURE/tree/e556d3c43c453cd3e4beb684aa3bd5e1c1723ca5
 
 https://github.com/Joe-kag/How-to-Install-and-Configure-Elasticsearch-Kibana-Logstash-8.17-on-Kali-Linux.
