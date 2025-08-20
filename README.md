@@ -48,6 +48,8 @@ https://github.com/Joe-kag/Attacking-and-Defending-AWS
 
 https://github.com/Joe-kag/Nessus-for-Vulnerability-scanning
 
+https://scribehow.com/page/Security_EngineerSplunk_Platform_Overview_Installation_on_Windows__kccBCkoWQFObzo1j0PFJ9g
+
 https://github.com/Joe-kag/SOC-L1-Analyst-Project
 
 https://github.com/Joe-kag/AWS-Free-Tier-Account-Setup
