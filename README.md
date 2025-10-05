@@ -18,6 +18,8 @@ I’m a Security Engineer with a strong focus on **DevOps, Infrastructure as Cod
 
 🔭 **Current Projects:** 
 
+https://github.com/Joe-kag/Phishing-Analysis-Email-Security-
+
 https://github.com/Joe-kag/Incident-Response-Threat-Analysis-
 
 https://github.com/Joe-kag/OWASP-TOP-10-DVWA-BURP-SUITE
