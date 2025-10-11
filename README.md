@@ -7,7 +7,7 @@
 
 ### 🚀 About Me  
 
-I’m a Security Engineer with a strong focus on **DevOps, Infrastructure as Code (IaC), Cloud Security, and Cybersecurity**. I love automating workflows, securing cloud environments, and building resilient infrastructure.  
+I’m a Cybersecurity and Cloud Security professional specializing in SOC operations, Security Automation, Identity & Access Management (IAM), and Cloud Security across AWS, Azure, and GCP. I enjoy monitoring, detecting, and responding to threats, automating security workflows, and strengthening cloud and enterprise environments. Passionate about applying hands-on skills to solve real-world security challenges and continuously learning emerging technologies.
 
 🛠 **Tech Stack & Skills:**  
 - **Security & SIEM:** Wazuh, Elastic Stack, TheHive, OSINT  
