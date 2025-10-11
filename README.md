@@ -10,11 +10,18 @@
 I’m a Cybersecurity and Cloud Security professional specializing in SOC operations, Security Automation, Identity & Access Management (IAM), and Cloud Security across AWS, Azure, and GCP. I enjoy monitoring, detecting, and responding to threats, automating security workflows, and strengthening cloud and enterprise environments. Passionate about applying hands-on skills to solve real-world security challenges and continuously learning emerging technologies.
 
 🛠 **Tech Stack & Skills:**  
-- **Security & SIEM:** Wazuh, Elastic Stack, TheHive, OSINT  
-- **Cloud & Infrastructure:** AWS, NetApp, CommVault, Terraform, Kubernetes  
-- **Automation & Scripting:** Python, PowerShell, Go, HCL  
-- **DevOps & CI/CD:** GitHub Actions, Jenkins, Ansible ,Gitlab
--  Endpoint & Network Security → Sysmon, Zeek, Snort, CrowdStrike Falcon
+
+- Security Monitoring & Log Analysis: Wazuh, Elastic Stack,Splunk, TheHive, OSINT, Sysmon, Zeek, Snort, CrowdStrike Falcon
+
+-Vulnerability Management & Endpoint Security: Nessus, NetApp, CommVault
+
+-Cloud & Infrastructure: AWS, Azure, GCP, Terraform, Kubernetes
+
+-Automation & Scripting: Python, PowerShell, Go, HCL
+
+-DevOps & CI/CD: GitHub Actions, Jenkins, Ansible, GitLab, Terraform, Kubernetes
+
+- Endpoint & Network Security → Sysmon, Zeek, Snort, IPS/IDS 
 
 🔭 **Current Projects:** 
 
