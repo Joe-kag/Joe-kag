@@ -11,7 +11,7 @@ I’m a Cybersecurity and Cloud Security professional specializing in SOC operat
 
 🛠 **Tech Stack & Skills:**  
 
-- Security Monitoring & Log Analysis: Wazuh, Elastic Stack,Splunk, TheHive, OSINT, Sysmon, Zeek, Snort, CrowdStrike Falcon
+-Security Monitoring & Log Analysis: Wazuh, Elastic Stack,Splunk, TheHive, OSINT, Sysmon, Zeek, Snort, CrowdStrike Falcon
 
 -Vulnerability Management & Endpoint Security: Nessus, NetApp, CommVault
 
