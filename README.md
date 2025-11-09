@@ -35,7 +35,7 @@ https://github.com/Joe-kag/Web-Application-Scanning-WAS-with-Qualys/tree/main
 
 https://github.com/Joe-kag/Wazuh-XDR
 
-https://github.com/Joe-kag/Microsoft-AZURE/tree/e556d3c43c453cd3e4beb684aa3bd5e1c1723ca5
+https://github.com/Joe-kag/Microsoft-AZURE/tree/main
 
 https://github.com/Joe-kag/How-to-Install-and-Configure-Elasticsearch-Kibana-Logstash-8.17-on-Kali-Linux.
 
