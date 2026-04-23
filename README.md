@@ -25,6 +25,8 @@ I’m a Cybersecurity and Cloud Security professional specializing in SOC operat
 
 🔭 **Current Projects:** 
 
+https://github.com/Joe-kag/-Okta-SSO-Integration-with-Microsoft-365-SWA-/blob/main/-365
+
 https://github.com/Joe-kag/-Okta-SSO-Integration-with-Salesforce-SAML-2.0-/blob/main/README.md
 
 https://github.com/Joe-kag/Phishing-Analysis-Email-Security-
